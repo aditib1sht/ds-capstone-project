@@ -82,40 +82,14 @@ Through this project, I gained practical experience in data cleaning, explorator
 - December 2011 contains incomplete monthly data.
 - The analysis focuses on historical data and does not include sales forecasting.
 
-## 9. How to Run the Project
 
-1. Clone this repository:
-
-   ```bash
-   git clone <your-repository-link>
-   ```
-
-2. Open the project notebook in Google Colab or Jupyter Notebook.
-
-3. Upload the `OnlineRetail.csv` dataset.
-
-4. Install the required libraries if they are not already installed:
-
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
-
-5. Run the notebook cells in sequence to perform the analysis.
-
-## 10. Project Files
+## 9. Project Files
 
 - `capstoneproject.ipynb` – Main Python notebook containing the complete analysis.
 - `Cleaned_OnlineRetail.csv` – Cleaned dataset generated during the project.
 - `Product_Sales_Summary.csv` – Product-wise sales summary.
 - `Retail_Sales_Capstone_Report.pdf` – Project report.
 
-## 11. Dataset Source and Licence
-
-Dataset: [Online Retail Dataset – UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail)
-
-If you downloaded the dataset from Kaggle, include the exact Kaggle dataset link as well. Check the licence displayed on the original download page and mention it here before publishing or redistributing the dataset.
-
----
 
 **Author:** Aditi Bisht  
 **Course:** B.Sc. Data Science  
